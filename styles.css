@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+#move1{
+    padding-left: 45%;
+}
+/* #move2{
+    padding-left:15%; 
+} */
+#home{
+    padding-bottom:20% ;
+    text-align: center;
+    background-image:url(./photos/bicycle.jpg);
+    background-attachment: fixed;
+    /* background-position: center; */
+    background-blend-mode: color;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#about{
+    /* padding-bottom: 35%; */
+    padding-top:3%;
+    font-size:20px;
+    color:#041333;
+
+
+}
+#contacts{
+    background-color:whitesmoke;
+    padding-left:40%
+}
+.one{
+    height:20px;
+    width: 20px;
+}
+.jumbotron{
+    background-color:whitesmoke;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    color:#041333;
+}
+#home1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    color: #ffffff;
+}
+.container-fluid{
+    background-color: colorless;
+}
+.about1{
+    padding-left: 30%;
+}
+
+.container{
+    background-color:#041333;
+    color: white;
+    font-size: 25px;
+
+}
+
+#heading{
+    text-align: center;
+    font-size: 50px;
+    color:#ffffff;
+}
+
+.icons{
+    opacity:0.5;
+}
+.projim{
+    width:100%;
+    height:auto;
+}
