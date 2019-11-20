@@ -51,15 +51,15 @@ $(document).ready(function(){
         $(this).addClass('icons');
          });
 
-         $('#proj01').hover(function(){
+        //  $('#proj01').hover(function(){
  
-            $(this).removeClass('projim');
+        //     $(this).removeClass('projim');
        
-             },
-             function(){
+        //      },
+        //      function(){
     
-            $(this).addClass('projim');
-             });
+        //     $(this).addClass('projim');
+        //      });
   
       
 });

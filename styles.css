@@ -14,12 +14,18 @@
     background-blend-mode: color;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color:rgba(0, 0, 0, 0.5) ;
 
+
+}
+.moni{
+    color: white;
+    font-size: 60px;
 }
 #about{
     /* padding-bottom: 35%; */
     padding-top:3%;
-    font-size:20px;
+    font-size:16px;
     color:#041333;
 
 
@@ -53,9 +59,8 @@ h2{
 }
 
 .container{
-    background-color:#041333;
-    color: white;
-    font-size: 25px;
+    font-size: 18px;
+    background-color: silver;
 
 }
 
@@ -66,7 +71,7 @@ h2{
 }
 
 .icons{
-    opacity:0.5;
+    opacity:0.2;
 }
 .projim{
     width:100%;
